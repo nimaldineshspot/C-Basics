@@ -1,0 +1,9 @@
+<stdio.h>
+<conio.h>
+int main()
+{
+  printf("Hello Galaxy");
+  printf("How are you doin");
+}
+return 0;
+
